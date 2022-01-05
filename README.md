@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elusive987
 - 👀 I’m interested in HTML + Python 
-- 🌱 I’m currently  in 11th
+- 🌱 I’m currently in highschool
 - 📫  Reach me on My Gmail ||||| elusive675@gmail.com |||||
 -                                        OR
 -                                    My insta id
