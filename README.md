@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @elusive987
-- 👀 I’m interested in HTML + Python 
-- 🌱 I’m currently in highschool
+- 👀 I’m know to Pyt/js/html/mysql
+- 🌱 I’m currently in univ
 - 📫  Reach me on My Gmail ||||| elusive675@gmail.com |||||
--                                        OR
--                                    My insta id
--                                       sr_an_9
 
 
 elusive987/elusive987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
